@@ -1,0 +1,23 @@
+{
+  "employees": [
+    {
+      "id": 10,
+      "info": {
+        "age": "25",
+        "skills": [
+          "scala",
+          "nodejs",
+          "python"
+        ],
+        "address": "hcm",
+        "position": "dev",
+        "additional_info": {
+          "external": false
+        }
+      }
+    }
+  ],
+  "location": "hcm",
+  "name": "C1",
+  "type": "product"
+}
